@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Contour News"
 date:   2017-04-05 21:11:44 +0000
 categories: jekyll update
 ---
