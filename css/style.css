@@ -3,5 +3,5 @@
 @import "{{ site.theme }}";
 
 .banner{
-  color:"red";
+  font-size: 64px;
 }
