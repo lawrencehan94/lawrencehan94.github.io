@@ -32,27 +32,56 @@ header p {
   margin: 0;
 }
 
+/*Code Insert*/
 .jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://static1.squarespace.com/static/5053619d24ac3b03d535ba23/t/5274646ce4b06f1a7db10ee8/1434104999089/David+Hertz+Architect+Los+Angeles+Green+Solar+Panels+Sustainable+Award+top+venice+beach+california+airbnb+eco+pod+san+francisco+new+york+living+wall+cooks+garden+venice.jpg');
-  background-size: cover;
-  color: #ffffff;
+  background-image:url('http://media-cdn.tripadvisor.com/media/photo-s/03/9b/2d/f2/new-york-city.jpg');
   height: 500px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-.jumbotron h2 {
-  font-size: 60px;
-  font-weight: 700;
-  margin: 0;
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
   color: #fff;
 }
 
-.jumbotron h3 {
-  margin: 0 0 20px;
-  color: #fff;
+.learn-more {
+  background-color: #f7f7f7;
 }
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.neighborhood-guides {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+/*Code Insert*/
 
 section .row img {
   margin: 0 0 30px;
