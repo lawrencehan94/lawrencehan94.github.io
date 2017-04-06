@@ -75,7 +75,6 @@ section .row img {
 .btn.btn-primary:hover {
   color: white;
 	background-color:black;
-  background-color: #fbd1d5;
 }
 
 .btn-secondary {
