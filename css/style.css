@@ -66,13 +66,15 @@ section .row img {
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  color: #fbd1d5;
+  color: black;
+	background-color:white;
   text-shadow: none;
   background-color: #ffffff;
 }
 
 .btn.btn-primary:hover {
-  color: #ffffff;
+  color: white;
+	background-color:black;
   background-color: #fbd1d5;
 }
 
