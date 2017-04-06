@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Sign Up
+permalink: /sign_up/
 ---
 
 <div id="contact_header">
