@@ -1,8 +1,7 @@
 ---
 ---
-/*
+
 @import "{{ site.theme }}";
-*/
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -44,7 +43,7 @@ header p {
 
 .jumbotron .container {
   position: relative;
-  top:100px;
+  top:50px;
 }
 
 .jumbotron h1 {
