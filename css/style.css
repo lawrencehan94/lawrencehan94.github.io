@@ -5,6 +5,7 @@
 .banner{
   background-image:url("http://www.high50.com/wp-content/uploads/2014/11/TRAVEL-Airbnb-Holiday-homes-620-Photo-Caroline-Gutman-on-Unsplash-.jpg");
   color: white;
+opacity: 0.5;
   padding: 100px 10px 100px 10px;
 	margin: 0px;
   font-family: 'Trebuchet MS',Helvetica, sans-serif;
