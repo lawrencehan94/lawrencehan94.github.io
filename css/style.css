@@ -5,7 +5,7 @@
 .banner{
   background-image:url("http://static3.businessinsider.com/image/551cfc0eecad040b13c2b3a2/airbnb-opens-in-cuba.jpg");
   color: white;
-  padding: 100px 0;
+  padding: 100px 10px 100px 10px;
 	margin: 0px;
   font-family: 'Trebuchet MS',Helvetica, sans-serif;
 }
