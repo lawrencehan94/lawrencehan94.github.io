@@ -2,13 +2,9 @@
 ---
 @import "{{ site.theme }}";
 
-p {
-	font-size: 56px;
-}
-
 .banner{
   background-image:url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
-  color: blue;
+  color: white;
   padding: 250px 0;
 	margin: 30px;
   font-family: 'Trebuchet MS',Helvetica, sans-serif;
