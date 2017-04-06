@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Contour News | News For You
+title: Contour News 
 email: heroes@countournews.com
 description: > # this means to ignore newlines until "baseurl:"
   We are the next generation of storytellers.  
