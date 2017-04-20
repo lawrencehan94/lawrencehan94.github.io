@@ -7,11 +7,11 @@
 
 # Site settings
 title: Contour News 
-email: heroes@countournews.com
+email: about@countournews.com
 description: > # this means to ignore newlines until "baseurl:"
   We are the next generation of storytellers.  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://lawrencehan94.github.io/" # the base hostname & protocol for your site
 twitter_username: contournews
 github_username:  # leave blank for now
 
